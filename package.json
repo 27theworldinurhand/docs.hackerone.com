@@ -16,7 +16,7 @@
     "gatsby-remark-images": "^1.5.61",
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
-    "gatsby-transformer-sharp": "^1.6.21",
+    "gatsby-transformer-sharp": "^1.6.27",
     "react": "^15.6.2",
     "react-helmet": "^5.2.0",
     "whatwg-fetch": "^2.0.4"
