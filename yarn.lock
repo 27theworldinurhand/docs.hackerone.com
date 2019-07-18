@@ -4660,7 +4660,7 @@ gatsby-transformer-remark@^1.7.40:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.1.1"
 
-gatsby-transformer-sharp@^1.6.21:
+gatsby-transformer-sharp@^1.6.27:
   version "1.6.27"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-1.6.27.tgz#89167e4d9fcd3cf772bc029380af9cdcd88e23a1"
   integrity sha1-iRZ+TZ/NPPdyvAKTgK+c3NiOI6E=
