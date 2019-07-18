@@ -4578,7 +4578,7 @@ gatsby-plugin-sharp@^1.6.42, gatsby-plugin-sharp@^1.6.48:
     sharp "^0.20.0"
     svgo "^0.7.2"
 
-gatsby-plugin-sitemap@^1.2.23:
+gatsby-plugin-sitemap@^1.2.25:
   version "1.2.25"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-1.2.25.tgz#175c82518316f9439df66343d213be2815e129b0"
   integrity sha1-F1yCUYMW+UOd9mND0hO+KBXhKbA=
